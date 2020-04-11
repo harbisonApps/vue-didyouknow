@@ -2,7 +2,7 @@
 node_modules
 /dist
 /devdata
-
+ 
 # local env files
 .env
 
