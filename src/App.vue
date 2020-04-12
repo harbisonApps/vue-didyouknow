@@ -42,7 +42,7 @@ form {
 input,
 textarea{
     border-radius: 25px;
-    border: .5px solid grey;
+    border: 1px solid grey;
     margin-top: 10px;
     width: 275px;
     font-size: 16px;
